@@ -13,7 +13,7 @@ import servlets.SignUpServlet;
 
 
 /**
- * Created by ibm_admin on 19/04/2017.
+ * Created by nb on 19/04/2017.
  */
 public class Main {
 

@@ -5,7 +5,7 @@ import dbService.DBException;
 import dbService.DBService;
 
 /**
- * Created by ibm_admin on 19/04/2017.
+ * Created by nb on 19/04/2017.
  */
 public class AccountService {
 

@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * Created by ibm_admin on 19/04/2017.
+ * Created by nb on 19/04/2017.
  */
 public class SignUpServlet extends HttpServlet {
 
